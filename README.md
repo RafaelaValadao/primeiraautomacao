@@ -32,6 +32,7 @@ pip install -r requirements.txt
 ```
 
 ### Execute o script
-'''
+
+```
 python login.py
-'''
+```
