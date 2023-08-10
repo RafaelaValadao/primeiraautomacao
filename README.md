@@ -18,6 +18,11 @@ cd primeirautomacao
 ```
 python3 -m venv venv
 ```
+### Instale as dependencias do projeto
+
+```
+pip install -r requirements.txt
+```
 
 ### Ative o ambiente virutal
 
@@ -25,14 +30,8 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### Instale as dependencias do projeto
-
-```
-pip install -r requirements.txt
-```
-
 ### Execute o script
 
 ```
-python login.py
+python runall.py
 ```
