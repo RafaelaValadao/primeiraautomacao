@@ -1,4 +1,4 @@
-# primeiraautomacao
+# Automação para login + registrar ponto manual + anular ponto manual
 Primeira automação, playwright
 
 ## Baixando e Executando
