@@ -1,5 +1,5 @@
 # primeiraautomacao
-Primeira automação, playwright COM O NENO
+Primeira automação, playwright
 
 ## Baixando e Executando
 
